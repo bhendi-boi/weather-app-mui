@@ -74,3 +74,10 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+/* 
+  10. Remove default styles for a tags
+*/
+a {
+  text-decoration: none;
+}

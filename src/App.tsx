@@ -1,7 +1,8 @@
+import { Container } from "@mui/material"
 
 const App = () => {
   return (
-    <div>App</div>
+    <Container></Container>
   )
 }
 
